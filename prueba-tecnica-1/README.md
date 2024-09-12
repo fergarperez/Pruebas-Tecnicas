@@ -6,5 +6,5 @@ APIs:
 - Imagen random: https://cataas.com/cat/says/hello
 
 - [x] Recupera un hecho aleatorio de gatos de la primera API
-- [] Recuperar las tres primera palabra del hecho
-- [] Muestra una imagen de un gato con la primera palabra.
+- [x] Recuperar las tres primera palabra del hecho
+- [x] Muestra una imagen de un gato con la primera palabra.
