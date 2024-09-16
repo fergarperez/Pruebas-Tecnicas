@@ -1,0 +1,54 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+ul {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+li {
+  list-style: none;
+}
+
+img {
+  width: 150px;
+  height: 250px;
+  object-fit: cover;
+}
+
+h3 {
+  font-size: 20px;
+  margin-left: 20px;
+  text-align: start;
+}
+
+h4 {
+  font-size: 16px;
+  margin-left: 20px;
+  text-align: start;
+}
+
+select {
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #000;
+  font-size: 16px;
+  background-color: #1a1a1a;
+}
+
+select option {
+  padding: 10px;
+  background-color: #1a1a1a;
+}
+
+.genre-filter {
+  text-align: start;
+  margin-left: 20px;
+}
